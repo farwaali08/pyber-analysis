@@ -54,7 +54,7 @@ More than 80% of all PyBer drivers conducted business in the Urban areas, as ill
 
 ### TOTAL FARES
 
-Nearly 63% of all fares, or revenue, for this period was collected in Urban areas. This is likely to due to the higher number of rides overall. Interestingly, Surburban drivers and rides represented 16.5% and 26.3% of their respective data populations, and 30.5% of total fares. This can speak to the cost of
+Nearly 63% of all fares, or revenue, for this period was collected in Urban areas. This is likely to due to the higher number of rides overall. Interestingly, Surburban drivers and rides represented 16.5% and 26.3% of their respective data populations, and 30.5% of total fares. This is likely to due to the higher costs of rides in low
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/abde4f6cb9f45de6641f819cef3e723b11d49459/total_fares.png)
 
