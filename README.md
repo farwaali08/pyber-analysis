@@ -6,7 +6,9 @@
 
 ## OVERVIEW
 
-This exploratory analysis aims to assist PyBer in improving access to rideshare services, and determining affordability for underserved areas, by identifying trends in ridership and fare data. 
+This exploratory analysis aims to assist PyBer in improving access to rideshare services, and determining affordability for underserved areas by identifying trends in ridership and fare data. 
+
+The data provided categorized each service region by type (Urban, Suburban, and Rural)
 
 
 ## QUICK LINKS
