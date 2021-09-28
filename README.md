@@ -9,7 +9,7 @@
 
 [City Data](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/city_data.csv)
 
-[Ride Data](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/PyBer_ride_data.csv)
+[Ride Data](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/ride_data.csv)
 
 [PyBer Ride Data](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/PyBer_ride_data.csv)
 
