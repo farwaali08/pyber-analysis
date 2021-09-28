@@ -81,4 +81,12 @@ The lowest average fares per ride and drivers were in the Urban city type. The a
 
 The same logic can be applied towards drivers in Suburban and Rural areas, as longer trips (with respect to both time and distance,) would increase the cost per ride. A lower supply of drivers would also impact the fare price, making it higher.
 
+
+
+### TOTAL WEEKLY FARES BY CITY TYPE
+
+Finally, when examining the weekly fares per city type, it is clear that the majority of revenue is due to Urban ridership, which consistently surpasses other city types.
+
+![alt_text](https://github.com/farwaali08/pyber-analysis/blob/2d8c53cbd48c520280f22a518a84a69902929465/Final_Line_Graph.png)
+
 ## SUMMARY
