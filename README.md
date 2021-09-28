@@ -31,4 +31,10 @@ The data was analyzed using the Pandas and Matplotlib libraries in Python 3.9.3,
 [PyBer Analysis](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/PyBer_Challenge_starter.ipynb)
 
 ## RESULTS & ANALYSIS
+
+The results for the first part of the analysis are summarized below:
+
+![alt_text](https://github.com/farwaali08/pyber-analysis/blob/7a7c6f235fe04ef779c1b2a9657866a4692dbf8d/pyber_summary_df.png)
+
+### TOTAL RIDES
 ## SUMMARY
