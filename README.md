@@ -32,15 +32,28 @@ The data was analyzed using the Pandas and Matplotlib libraries in Python 3.9.3,
 
 ## RESULTS & ANALYSIS
 
-The results for the first part of the analysis are summarized below:
+The results for the first part of the analysis are as follows:
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/7a7c6f235fe04ef779c1b2a9657866a4692dbf8d/pyber_summary_df.png)
+
+
+
+### TOTAL RIDES, DRIVERS, AND FARE
+
+The individual data for each city type is summarized in the table above.
+
+   * Total Number of Rides:   `2,375`
+   * Total Number of Drivers: `2,973`
+   * Total Fares:             `$63,538.64`
+
+
 
 ### TOTAL RIDES BY CITY TYPE
 
 It quickly becomes apparent that the majority of PyBer's ridership can be observed in Urban areas. Urban ridership represents 68.4%, or roughly two-thirds of all rides during the observed period (Jan-April 2019). The remaining third is divided amongst the Suburban and Rural categories, with the latter representing only 5.3% of all rides.
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/9764daf1a95a3ab1089e8b065326dd3fe3670ab0/total-rides.png)
+
 
 
 
@@ -52,11 +65,13 @@ More than 80% of all PyBer drivers conducted business in the Urban areas, as ill
 
 
 
+
 ### TOTAL FARES BY CITY TYPE
 
 Nearly 63% of all fares, or revenue, for this period was collected in Urban areas. This is likely to due to the higher number of rides overall. Interestingly, Surburban drivers and rides represented 16.5% and 26.3% of their respective data populations, and 30.5% of total fares. This is likely to due to the higher costs of rides in low
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/abde4f6cb9f45de6641f819cef3e723b11d49459/total_fares.png)
+
 
 
 
