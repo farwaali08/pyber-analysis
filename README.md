@@ -41,4 +41,14 @@ The results for the first part of the analysis are summarized below:
 It quickly becomes apparent that the majority of PyBer's ridership can be observed in Urban areas. The Urban rides represent 68.4%, or roughly two-thirds of all rides during the observed period (Jan-April 2019). The remaining third is divided amongst the Suburban and Rural categories, with the latter representing only 5.3% of all rides.
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/9764daf1a95a3ab1089e8b065326dd3fe3670ab0/total-rides.png)
+
+
+
+### TOTAL DRIVERS
+
+More than 80% of all PyBer drivers conducted business in the Urban areas, as illustrated in the figure below. This, coupled with the ride data in the image above demonstrates, a higher demand for ride-sharing services in urban areas. In accordance with basic economics, the higher supply of drivers is necessary to fulfill the higher demand for rides.
+
+![alt_text](https://github.com/farwaali08/pyber-analysis/blob/c9c6319723a4f40fe3bf6f008dda72feae064c6d/total_drivers.png)
+
+
 ## SUMMARY
