@@ -44,7 +44,7 @@ The individual data for each city type is summarized in the table above.
 
    * Total Number of Rides:   `2,375`
    * Total Number of Drivers: `2,973`
-   * Total Fares:             `$63,538.64`
+   * Total Fares:             `$63,538.64 USD`
 
 
 
@@ -76,5 +76,7 @@ Nearly 63% of all fares, or revenue, for this period was collected in Urban area
 
 
 ### AVERAGE FARE PER RIDE AND DRIVER 
+
+The lowest average fares per ride and drivers were in the Urban city type. The average ride in an Urban city is $24.53, and the average fare per driver is $16.57. This was the only category where the fare per ride was higher than the fare per driver. Assuming that PyBer's business practices follow those of [comparable competitors](https://help.lyft.com/hc/en-ca/articles/115013080008-How-ride-earnings-are-calculated#calc), the 
 
 ## SUMMARY
