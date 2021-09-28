@@ -5,6 +5,10 @@
 [Source](https://www.theengineblock.com/uber-lyft-and-the-culture-of-ridesharing-can-it-survive/)
 
 ## OVERVIEW
+
+This exploratory analysis aims to assist PyBer in improving access to rideshare services, and determining affordability for underserved areas, by identifying trends in ridership and fare data. 
+
+
 ## QUICK LINKS
 
 [City Data](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/city_data.csv)
