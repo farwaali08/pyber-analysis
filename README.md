@@ -16,6 +16,8 @@ The data provided categorized each service region by type (Urban, Suburban, and 
 * The average fare per ride and driver
 * The total fare by city type
 
+In the second part of the analysis, the weekly fares for each city type were plotted over a period of 5 months in order to determine trends in usage and revenue.
+
 The data was analyzed using the Pandas and Matplotlib libraries in Python 3.9.3, and visualized in Jupyter Notebook 6.3.0.
 
 ## QUICK LINKS
