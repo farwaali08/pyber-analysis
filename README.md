@@ -8,7 +8,13 @@
 
 This exploratory analysis aims to assist PyBer in improving access to rideshare services, and determining affordability for underserved areas by identifying trends in ridership and fare data. 
 
-The data provided categorized each service region by type (Urban, Suburban, and Rural)
+The data provided categorized each service region by type (Urban, Suburban, and Rural). Each type was then analyzed based on the following criteria:
+
+* The total rides (%)
+* The total drivers (%)
+* The total fares (%)
+* The average fare per ride and driver
+* The total fare by city type
 
 
 ## QUICK LINKS
