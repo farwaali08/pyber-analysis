@@ -46,9 +46,16 @@ It quickly becomes apparent that the majority of PyBer's ridership can be observ
 
 ### TOTAL DRIVERS
 
-More than 80% of all PyBer drivers conducted business in the Urban areas, as illustrated in the figure below. This, coupled with the ride data in the image above demonstrates, a higher demand for ride-sharing services in urban areas. In accordance with basic economics, the higher supply of drivers is necessary to fulfill the higher demand for rides.
+More than 80% of all PyBer drivers conducted business in the Urban areas, as illustrated in the figure below. This, coupled with the ride data in the image above demonstrates, a higher demand for ride-sharing services in urban areas. In accordance with basic economics, the higher supply of drivers is necessary to fulfill the higher demand for rides. It will also impact pricing, which will be discussed later on.
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/c9c6319723a4f40fe3bf6f008dda72feae064c6d/total_drivers.png)
 
+
+
+### TOTAL FARES
+
+Nearly 63% of all fares, or revenue, for this period was collected in Urban areas. This is likely to due to the higher number of rides overall. Interestingly, Surburban drivers and rides represented 16.5% and 26.3% of their respective data populations, and 30.5% of total fares. This can speak to the cost of
+
+![alt_text](https://github.com/farwaali08/pyber-analysis/blob/abde4f6cb9f45de6641f819cef3e723b11d49459/total_fares.png)
 
 ## SUMMARY
