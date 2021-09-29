@@ -85,7 +85,7 @@ The same logic can be applied towards drivers in Suburban and Rural areas, as lo
 
 ### TOTAL WEEKLY FARES BY CITY TYPE
 
-Finally, when examining the weekly fares per city type, it is clear that the majority of revenue is due to Urban ridership, which consistently surpasses other city types.
+Finally, when examining the weekly fares per city type, it is clear that the majority of revenue is due to Urban ridership, which consistently surpasses all other city types. PyBer is best suited for the Urban market.
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/2d8c53cbd48c520280f22a518a84a69902929465/Final_Line_Graph.png)
 
