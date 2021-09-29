@@ -28,7 +28,7 @@ The data was analyzed using the Pandas and Matplotlib libraries in Python 3.9.3,
 
 [PyBer Ride Data](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/PyBer_ride_data.csv)
 
-[PyBer Analysis](https://github.com/farwaali08/pyber-analysis/blob/c756bf2e18c8f727e5f3b5a21dd6413296f45aa2/Resources/PyBer_Challenge_starter.ipynb)
+[PyBer Analysis](https://github.com/farwaali08/pyber-analysis/blob/5173d49477849e876509dc7514912f8f6882ae86/Resources/PyBer_Challenge_starter.ipynb)
 
 ## RESULTS & ANALYSIS
 
