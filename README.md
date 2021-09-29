@@ -59,7 +59,7 @@ It quickly becomes apparent that the majority of PyBer's ridership can be observ
 
 ### TOTAL DRIVERS BY CITY TYPE
 
-More than 80% of all PyBer drivers conducted business in the Urban areas, as illustrated in the figure below. This, coupled with the ride data in the image above demonstrates, a higher demand for ride-sharing services in urban areas. In accordance with basic economics, the higher supply of drivers is necessary to fulfill the higher demand for rides. It will also impact pricing, which will be discussed later on.
+More than 80% of all PyBer drivers conducted business in the Urban areas, as illustrated in the figure below. This, coupled with the ride data in the image above, demonstrates a higher demand for ride-sharing services in urban areas. In accordance with basic economics, the higher supply of drivers is necessary to fulfill the higher demand for rides. It will also impact pricing, which will be discussed later on.
 
 ![alt_text](https://github.com/farwaali08/pyber-analysis/blob/c9c6319723a4f40fe3bf6f008dda72feae064c6d/total_drivers.png)
 
