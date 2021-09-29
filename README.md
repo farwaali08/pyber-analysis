@@ -91,4 +91,10 @@ Finally, when examining the weekly fares per city type, it is clear that the maj
 
 ## SUMMARY & NEXT STEPS
 
-The results of this analysis indicate that PyBer is most profitable in Urban areas, and should focus on strengthening that market. Despite more robust transit systems and walkable communities, urban ridership is on the rise in [many urban cities](https://www.cbc.ca/news/canada/toronto/the-ttc-is-losing-more-revenue-to-uber-and-lyft-than-to-fare-evasion-report-1.5907788).
+The results of this analysis indicate that PyBer is most profitable in Urban areas, and should focus on strengthening that market. Despite more robust transit systems and walkable communities, ridership is on the rise in [many urban cities](https://www.cbc.ca/news/canada/toronto/the-ttc-is-losing-more-revenue-to-uber-and-lyft-than-to-fare-evasion-report-1.5907788), and is a preferred method of transportation. 
+
+That being said, it is important to consider improvement opportunities in all areas of the market.
+
+Below are recommendations to consider moving forward:
+
+* There is a 
