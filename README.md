@@ -97,4 +97,10 @@ That being said, it is important to consider improvement opportunities in all ar
 
 Below are recommendations to consider moving forward:
 
-* There is a 
+* **Population Density:** Urban areas, generally, are densely populated, which automatically creates a larger potential customer base. A good starting point for the other city types would be to explore densely populated Suburban areas.
+
+* **Car Ownership:** This can take two approaches: areas with low car ownership will have a higher requirement for alternative transportation methods. Areas with a higher car ownership can be potential drivers.
+
+* **Economic Activity:** Areas with higher median incomes, and interestingly, higher unemployment([Source](https://www.vox.com/the-goods/2019/1/11/18179036/uber-lyft-rural-areas-subscription-model)) may be more likely to embrace ride-sharing. PyBer creates jobs, which is an incentive for these areas.
+
+* **Access Barriers:** Rural areas may not have the [technological infrastructure](https://www.vox.com/the-goods/2019/1/11/18179036/uber-lyft-rural-areas-subscription-model) to support ride-sharing apps. Some barriers include internet access, as well as access to credit cards.
